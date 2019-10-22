@@ -1,0 +1,107 @@
+body {
+  color: pink;
+  font-family: arial black;
+  margin: 0px;
+  background-color: #008000;
+  }
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+img {
+  display: flex;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 90px;
+}
+
+p{
+  width: 80%;
+  margin: 10vh 10vw;
+  font-size: 3em;
+}
+
+a {
+  color: rgb(65,75,86);;
+}
+
+div.two {
+  font-size: 0.5em;
+  word-spacing: 10px;
+  text-shadow: 2px 6px 10px red;
+  text-align: justify;
+  line-height: 32px;
+}
+
+div.three {
+  text-align: justify;
+}
+
+div.four {
+  text-align: center;
+  font-size: 0.5em;
+}
+
+div.fourandahalf {
+  text-align: center;
+  color: pink;
+  font-size: 0.3em;
+  }
+
+ol {
+  padding: 0;
+  font-size: 1em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+div.five {
+  color: green;
+  text-align: justify-content: center;
+
+}
+
+div.six {
+  text-align: center;
+  font-size: 0.5em;
+}
+
+ul {
+  justify-content: center;
+  display: grid;
+}
+
+li#first {
+  color: purple;
+}
+
+li#second {
+  color: brown;
+}
+
+li#third {
+  color: blue;
+}
+
+li#fourth {
+  color: black;
+}
+
+li {
+  margin: 0 20px;
+  transition: 0.6s ease;
+}
+
+li:hover {
+  font-size: 1.2em;
+  transition: 0.6s ease;
+}
